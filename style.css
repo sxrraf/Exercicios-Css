@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+    
+}
+
+section {
+    border-radius: 10px;
+    border: 2px solid blue;
+    padding: 20px;
+}
+
+#perfil {
+    color: blue;
+    border: 1px solid blue;
+    border-radius: 10px;
+    text-align: center;   
+}
+
+input {
+    margin-bottom: 10px;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid black;
+    width: 100%;
+    box-sizing: border-box;
+   
+}
